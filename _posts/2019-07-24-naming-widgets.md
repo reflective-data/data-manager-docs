@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Naming Widgets"
-category: doc
+category: dashboard
 date: 2019-07-24 08:55:36
 order: 1
 ---
