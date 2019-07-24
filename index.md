@@ -1,18 +1,16 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Home"
 ---
 
-### Get Started
+### Data Manager Documentation
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+Hello and welcome!
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+This is a documentation for datamanager.ga - use the sidebar on the left for navigating.
 
-#### Don't Forget
+PS! This documentation is still a work in progress and not all of the features are documented, yet.
 
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+#### Need help?
+
+Should you have any problems with the tool or questions, please contact us using info@reflectivedata.com
