@@ -9,7 +9,7 @@ Hello and welcome!
 
 This is a documentation for [datamanager.ga](https://datamanager.ga) - use the sidebar on the left for navigating.
 
-PS! This documentation is still a work in progress and not all of the features are documented, yet.
+_PS! This documentation is still a work in progress and not all of the features are documented, yet._
 
 ### What is Data Manager?
 
