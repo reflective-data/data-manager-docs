@@ -22,4 +22,3 @@ Here are a few examples:
 * Sessions & Users / Daily / 30 days
 * Transactions / Device Category / 60 days
 * Sessions & Transactions / Source/Medium / 30 days
-```
