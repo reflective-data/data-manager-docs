@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Building Widget Ruled"
+title: "Building Widget Rules"
 category: dashboard
 date: 2019-08-26 08:55:36
 order: 1
@@ -70,6 +70,14 @@ This option leverages the [Query Explorer](https://ga-dev-tools.appspot.com/quer
 
 ### Step 1 - Choose the parameters for your query
 
+![img 1](https://i.imgur.com/6y1qbFi.png)
+
 ### Step 2 - Test your query by clicking "Run Query"
 
+![img 2](https://i.imgur.com/5hnwjk5.png)
+
 ### Step 3 - Paste the "Direct link to this Report" value in the Widget Rules section
+
+![img 3](https://i.imgur.com/uZJqHZI.png)
+
+![img 4](https://i.imgur.com/K4borYf.png)
